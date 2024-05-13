@@ -1,0 +1,487 @@
+
+{
+ Custom Middleware
+IP: ::1
+Address: https
+Path: /api/Address
+Method: GET
+IsSecured: True
+Time: 2/26/2024 3:43:43 AM
+}
+{
+ Custom Middleware
+IP: ::1
+Address: https
+Path: /api/Address
+Method: GET
+IsSecured: True
+Time: 2/26/2024 4:01:55 AM
+}
+{
+ Custom Middleware
+IP: ::1
+Address: https
+Path: /api/Address
+Method: POST
+IsSecured: True
+Time: 2/26/2024 4:02:28 AM
+}
+{
+ Custom Middleware
+IP: ::1
+Address: https
+Path: /api/Address
+Method: POST
+IsSecured: True
+Time: 2/26/2024 4:02:41 AM
+}
+{
+ Custom Middleware
+IP: ::1
+Address: https
+Path: /api/Address
+Method: GET
+IsSecured: True
+Time: 2/26/2024 4:04:46 AM
+}
+{
+ Custom Middleware
+IP: ::1
+Address: https
+Path: /api/Address
+Method: PUT
+IsSecured: True
+Time: 2/26/2024 4:05:11 AM
+}
+{
+ Custom Middleware
+IP: ::1
+Address: https
+Path: /api/Address
+Method: GET
+IsSecured: True
+Time: 2/26/2024 4:46:04 AM
+}
+{
+ Custom Middleware
+IP: ::1
+Address: https
+Path: /api/Address
+Method: PUT
+IsSecured: True
+Time: 2/26/2024 4:46:29 AM
+}
+{
+ Custom Middleware
+IP: ::1
+Address: https
+Path: /Pizza/3
+Method: GET
+IsSecured: True
+Time: 2/26/2024 4:48:12 AM
+}
+{
+ Custom Middleware
+IP: ::1
+Address: https
+Path: /Pizza
+Method: GET
+IsSecured: True
+Time: 2/26/2024 4:48:19 AM
+}
+{
+ Custom Middleware
+IP: ::1
+Address: https
+Path: /api/Pizza
+Method: GET
+IsSecured: True
+Time: 2/26/2024 4:48:33 AM
+}
+{
+ Custom Middleware
+IP: ::1
+Address: https
+Path: /favicon.ico
+Method: GET
+IsSecured: True
+Time: 2/26/2024 4:48:33 AM
+}
+{
+ Custom Middleware
+IP: ::1
+Address: https
+Path: /api/Pizza/3
+Method: GET
+IsSecured: True
+Time: 2/26/2024 4:48:38 AM
+}
+{
+ Custom Middleware
+IP: ::1
+Address: https
+Path: /api/Pizza/3
+Method: PUT
+IsSecured: True
+Time: 2/26/2024 4:49:10 AM
+}
+{
+ Custom Middleware
+IP: ::1
+Address: https
+Path: /api/Address
+Method: PUT
+IsSecured: True
+Time: 2/26/2024 4:56:06 AM
+}
+{
+ Custom Middleware
+IP: ::1
+Address: https
+Path: /api/Address
+Method: PUT
+IsSecured: True
+Time: 2/26/2024 4:56:27 AM
+}
+{
+ Custom Middleware
+IP: ::1
+Address: https
+Path: /api/Address
+Method: PUT
+IsSecured: True
+Time: 2/26/2024 5:02:14 AM
+}
+{
+ Custom Middleware
+IP: ::1
+Address: https
+Path: /api/Address
+Method: GET
+IsSecured: True
+Time: 2/26/2024 5:04:58 AM
+}
+{
+ Custom Middleware
+IP: ::1
+Address: https
+Path: /api/Address
+Method: PUT
+IsSecured: True
+Time: 2/26/2024 5:05:21 AM
+}
+{
+ Custom Middleware
+IP: ::1
+Address: https
+Path: /api/Pizza
+Method: GET
+IsSecured: True
+Time: 2/26/2024 5:05:35 AM
+}
+{
+ Custom Middleware
+IP: ::1
+Address: https
+Path: /api/Pizza
+Method: GET
+IsSecured: True
+Time: 2/26/2024 5:05:39 AM
+}
+{
+ Custom Middleware
+IP: ::1
+Address: https
+Path: /api/Pizza/3
+Method: GET
+IsSecured: True
+Time: 2/26/2024 5:05:48 AM
+}
+{
+ Custom Middleware
+IP: ::1
+Address: https
+Path: /Pizza/3
+Method: GET
+IsSecured: True
+Time: 2/26/2024 5:06:13 AM
+}
+{
+ Custom Middleware
+IP: ::1
+Address: https
+Path: /Pizza/
+Method: GET
+IsSecured: True
+Time: 2/26/2024 5:06:16 AM
+}
+{
+ Custom Middleware
+IP: ::1
+Address: https
+Path: /api/Address
+Method: GET
+IsSecured: True
+Time: 2/26/2024 5:06:33 AM
+}
+{
+ Custom Middleware
+IP: ::1
+Address: https
+Path: /api/Pizza/3
+Method: GET
+IsSecured: True
+Time: 2/26/2024 5:06:41 AM
+}
+{
+ Custom Middleware
+IP: ::1
+Address: https
+Path: /api/Pizza/3
+Method: GET
+IsSecured: True
+Time: 2/26/2024 5:07:31 AM
+}
+{
+ Custom Middleware
+IP: ::1
+Address: https
+Path: /api/Pizza/3
+Method: GET
+IsSecured: True
+Time: 2/26/2024 5:07:34 AM
+}
+{
+ Custom Middleware
+IP: ::1
+Address: https
+Path: /api/Address
+Method: GET
+IsSecured: True
+Time: 2/26/2024 5:09:27 AM
+}
+{
+ Custom Middleware
+IP: ::1
+Address: https
+Path: /api/Address
+Method: GET
+IsSecured: True
+Time: 2/26/2024 5:29:23 AM
+}
+{
+ Custom Middleware
+IP: ::1
+Address: https
+Path: /api/Address
+Method: GET
+IsSecured: True
+Time: 2/26/2024 5:38:14 AM
+}
+{
+ Custom Middleware
+IP: ::1
+Address: https
+Path: /api/Address
+Method: GET
+IsSecured: True
+Time: 2/26/2024 5:40:39 AM
+}
+{
+ Custom Middleware
+IP: ::1
+Address: https
+Path: /api/Address
+Method: GET
+IsSecured: True
+Time: 2/26/2024 5:44:08 AM
+}
+{
+ Custom Middleware
+IP: ::1
+Address: https
+Path: /api/Address
+Method: GET
+IsSecured: True
+Time: 2/26/2024 6:23:46 AM
+}
+{
+ Custom Middleware
+IP: ::1
+Address: https
+Path: /api/Pizza
+Method: GET
+IsSecured: True
+Time: 2/26/2024 6:37:36 AM
+}
+{
+ Custom Middleware
+IP: ::1
+Address: https
+Path: /api/Pizza
+Method: GET
+IsSecured: True
+Time: 2/26/2024 7:42:01 AM
+}
+{
+ Custom Middleware
+IP: ::1
+Address: https
+Path: /api/Pizza/2
+Method: GET
+IsSecured: True
+Time: 2/26/2024 7:42:15 AM
+}
+{
+ Custom Middleware
+IP: ::1
+Address: https
+Path: /api/Address
+Method: GET
+IsSecured: True
+Time: 2/26/2024 9:06:30 AM
+}
+{
+ Custom Middleware
+IP: ::1
+Address: https
+Path: /api/Address
+Method: POST
+IsSecured: True
+Time: 2/26/2024 9:07:04 AM
+}
+{
+ Custom Middleware
+IP: ::1
+Address: https
+Path: /api/Address
+Method: GET
+IsSecured: True
+Time: 2/26/2024 9:07:18 AM
+}
+{
+ Custom Middleware
+IP: ::1
+Address: https
+Path: /api/Address
+Method: PUT
+IsSecured: True
+Time: 2/26/2024 9:07:36 AM
+}
+{
+ Custom Middleware
+IP: ::1
+Address: https
+Path: /api/Address/4
+Method: GET
+IsSecured: True
+Time: 2/26/2024 9:07:46 AM
+}
+{
+ Custom Middleware
+IP: ::1
+Address: https
+Path: /api/Address/2
+Method: DELETE
+IsSecured: True
+Time: 2/26/2024 9:08:39 AM
+}
+{
+ Custom Middleware
+IP: ::1
+Address: https
+Path: /api/Address/2
+Method: DELETE
+IsSecured: True
+Time: 2/26/2024 9:08:41 AM
+}
+{
+ Custom Middleware
+IP: ::1
+Address: https
+Path: /api/Address/1
+Method: DELETE
+IsSecured: True
+Time: 2/26/2024 9:08:53 AM
+}
+{
+ Custom Middleware
+IP: ::1
+Address: https
+Path: /api/Address
+Method: GET
+IsSecured: True
+Time: 2/26/2024 9:09:00 AM
+}
+{
+ Custom Middleware
+IP: ::1
+Address: https
+Path: /api/Address/GetMany
+Method: GET
+IsSecured: True
+Time: 2/26/2024 9:09:14 AM
+}
+{
+ Custom Middleware
+IP: ::1
+Address: https
+Path: /api/Order
+Method: GET
+IsSecured: True
+Time: 2/26/2024 9:09:30 AM
+}
+{
+ Custom Middleware
+IP: ::1
+Address: https
+Path: /api/Order/3
+Method: GET
+IsSecured: True
+Time: 2/26/2024 9:09:40 AM
+}
+{
+ Custom Middleware
+IP: ::1
+Address: https
+Path: /api/Order/2
+Method: GET
+IsSecured: True
+Time: 2/26/2024 9:09:52 AM
+}
+{
+ Custom Middleware
+IP: ::1
+Address: https
+Path: /api/Order/GetMany
+Method: GET
+IsSecured: True
+Time: 2/26/2024 9:10:09 AM
+}
+{
+ Custom Middleware
+IP: ::1
+Address: https
+Path: /api/Pizza
+Method: GET
+IsSecured: True
+Time: 2/26/2024 9:10:17 AM
+}
+{
+ Custom Middleware
+IP: ::1
+Address: https
+Path: /api/Address
+Method: GET
+IsSecured: True
+Time: 2/26/2024 4:36:18 PM
+}
+{
+ Custom Middleware
+IP: ::1
+Address: https
+Path: /api/Address
+Method: GET
+IsSecured: True
+Time: 2/26/2024 4:36:20 PM
+}
